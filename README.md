@@ -29,6 +29,7 @@ Key fields include:
 - Monthly and total charges
 - Administrative and technical support tickets
 - Churn status
+
 🧹 Data Preparation
 
 The dataset was prepared in Power Query before analysis. The main data preparation steps included:
