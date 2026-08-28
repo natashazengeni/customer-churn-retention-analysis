@@ -56,4 +56,6 @@ Key Dashboard Areas
 - Customer demographic segments
 
 The dashboard was designed to provide a clear view of churn patterns and help identify customer groups that may require targeted retention strategies.
+## 📸 Dashboard Preview
 
+![Customer Churn Dashboard](Customer_churn_dashboard)
