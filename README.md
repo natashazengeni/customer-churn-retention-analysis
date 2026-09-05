@@ -42,6 +42,7 @@ The dataset was prepared in Power Query before analysis. The main data preparati
 - Validating the dataset before loading it into the Power BI data model
 
 These steps helped ensure that the dataset was suitable for reliable analysis and visualisation.
+
 📊 Dashboard
 
 The interactive Power BI dashboard provides an overview of customer churn patterns and highlights key factors associated with customer retention.
